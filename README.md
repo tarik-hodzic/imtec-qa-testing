@@ -1,7 +1,6 @@
 <h1>Imtec.ba – QA Automated Testing (Selenium + JUnit)</h1>
 
-Automated end-to-end (E2E) test suite for <b>Imtec.ba</b>, an e-commerce web application for IT equipment
-such as laptops, monitors, components, and accessories.
+Automated end-to-end (E2E) test suite for <b>Imtec.ba</b>, an e-commerce web application for IT equipment.
 
 <h2>Project Overview</h2>
 
