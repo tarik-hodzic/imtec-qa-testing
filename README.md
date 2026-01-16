@@ -77,8 +77,8 @@ mvn -Dtest=SearchTest test
 <h2>Test Results Summary</h2>
 
 <ul>
-  <li>Total automated tests: 73</li>
-  <li>Passed tests: 66</li>
+  <li>Total automated tests: 70</li>
+  <li>Passed tests: 63</li>
   <li>Failed tests: 7</li>
 </ul>
 
